@@ -1,0 +1,11 @@
+.header__language-link {
+  font-size: 1.5rem;
+  line-height: 1,75rem;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+}
+
+.header__language-link:active {
+  text-decoration: line;
+}
