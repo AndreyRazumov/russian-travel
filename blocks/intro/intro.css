@@ -1,6 +1,5 @@
 .intro {
   grid-area: intro;
-  display: grid;
   max-width: 690px;
   margin: 0;
   padding: 0;
