@@ -6,7 +6,7 @@
 
 }
 
-/* @media screen and (max-width: 1024px) and (min-width: 769px) {
+@media screen and (max-width: 1024px) and (min-width: 769px) {
   .photo-grid__item {
     gap: 14px;
   }
@@ -16,4 +16,4 @@
   .photo-grid__item {
     gap: 12px;
   }
-}*/
+}

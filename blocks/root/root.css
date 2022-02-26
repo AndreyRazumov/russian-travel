@@ -6,8 +6,6 @@
   min-height: 100vh;
   margin: 0 auto;
   display: grid;
-  align-items: start;
-  justify-content: stretch;
   grid-template-rows: min-content 1fr min-content;
   grid-template-areas:
   "header"
