@@ -1,4 +1,4 @@
 .photo-grid {
+  grid-area: photo-grid;
   margin: 0;
-
 }

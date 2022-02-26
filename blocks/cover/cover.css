@@ -1,3 +1,22 @@
 .cover {
-  
+  grid-area: cover;
+  min-height: 740px;
+  width: 100%;
+  background: url(../../images/cover-trains.jpg) no-repeat;
+  background-size: cover;
+}
+
+
+@media screen and (max-width: 1023px) {
+  .cover {
+    min-height: 480px;
+    margin-top: 2px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .cover {
+    min-height: 200px;
+    margin-top: 2px;
+  }
 }

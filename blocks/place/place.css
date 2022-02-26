@@ -1,3 +1,19 @@
 .place {
-  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+  'place__title place__website'
+  'place__image place__paragraphs';
+  gap: 28px;
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    "place__title"
+    "place__website"
+    "place__image"
+    "place__paragraphs";
+  }
 }
