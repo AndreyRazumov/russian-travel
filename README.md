@@ -1,4 +1,4 @@
-## :sweat_smile: [***Проект: Путешествие по России***](https://andreyrazumov.github.io/russian-travel/index.html "Путешествие по России")
+## :steam_locomotive: [***Проект: Путешествие по России***](https://andreyrazumov.github.io/russian-travel/index.html "Путешествие по России") :steam_locomotive:
 ____
 
 ### Описание проекта
@@ -17,5 +17,4 @@ ____
 
 :heavy_check_mark: Версия языка: :ru:
 
-:heavy_check_mark: Использовалось расширение Pixel Perfect для выравнивания по макету
-
+:heavy_check_mark: HTML и CSS
