@@ -8,9 +8,14 @@ ____
 #### В этом проекте применены технологии:
 
 :heavy_check_mark: Макет из [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
 :heavy_check_mark: Grid Layout
+
 :heavy_check_mark: Flexbox
+
 :heavy_check_mark: Медиазапросы
+
 :heavy_check_mark: Версия языка: :ru:
+
 :heavy_check_mark: Использовалось расширение Pixel Perfect для выравнивания по макету
 
