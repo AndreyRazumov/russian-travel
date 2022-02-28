@@ -1,4 +1,4 @@
-## :sweat_smile: [***Проект: Путешествие по России***](https://github.com/AndreyRazumov?tab=repositories "Путешествие по России")
+## :sweat_smile: [***Проект: Путешествие по России***](https://andreyrazumov.github.io/russian-travel/index.html "Путешествие по России")
 ____
 
 ### Описание проекта
